@@ -290,3 +290,7 @@ img{
     width: 100%;
     max-width: 100%;
 }
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
