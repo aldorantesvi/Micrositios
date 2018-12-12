@@ -103,9 +103,9 @@ body{
 }
 
 
-h3{
+h1{
 text-align: center;
-padding: 1rem;
+padding: 3rem;
 }
 
 img{
@@ -116,10 +116,17 @@ img{
 
 .btn{
     background-color: gray;
-    padding: 1rem;
+    margin: 1rem;
+    border-color: gray;
 }
 
+.btn:hover{
+        background-color: gray;
+    margin: 1rem;
+    border-color: gray;
+}
 
+}
 
 
 
