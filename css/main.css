@@ -97,8 +97,19 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
 
 
+h3{
+text-align: center;
+}
+
+img{
+    width: 100%;
+    max-width: 100%;
+}
 
 
 
@@ -286,11 +297,5 @@ textarea {
     }
 }
 
-img{
-    width: 100%;
-    max-width: 100%;
-}
 
-body{
-    font-family: 'Open Sans Condensed', sans-serif;
-}
+
