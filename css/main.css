@@ -99,17 +99,27 @@ textarea {
 
 body{
     font-family: 'Open Sans Condensed', sans-serif;
+    background: #eee;
 }
 
 
 h3{
 text-align: center;
+padding: 1rem;
 }
 
 img{
     width: 100%;
     max-width: 100%;
+    padding: 1rem;
 }
+
+button{
+    background-color: gray;
+    padding: 1rem;
+}
+
+
 
 
 
