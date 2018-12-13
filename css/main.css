@@ -116,13 +116,13 @@ img{
 
 .btn{
     background-color: pink;
-    margin: 1rem;
+    margin: 4rem;
     border-color: pink;
 }
 
 .btn:hover{
         background-color: pink;
-    margin: 1rem;
+    margin: 4rem;
     border-color: pink;
 }
 
