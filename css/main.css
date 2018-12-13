@@ -121,9 +121,9 @@ img{
 }
 
 .btn:hover{
-        background-color: gray;
+        background-color: pink;
     margin: 1rem;
-    border-color: gray;
+    border-color: pink;
 }
 
 }
