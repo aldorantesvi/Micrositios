@@ -115,15 +115,15 @@ img{
 }
 
 .btn{
-    background-color: red;
+    background-color: orange;
     margin: 1rem;
-    border-color: red;
+    border-color: orange;
 }
 
 .btn:hover{
-        background-color: red;
+        background-color: orange;
     margin: 1rem;
-    border-color: red;
+    border-color: orange;
 }
 
 }
