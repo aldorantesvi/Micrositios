@@ -115,15 +115,15 @@ img{
 }
 
 .btn{
-    background-color: pink;
+    background-color: red;
     margin: 1rem;
-    border-color: pink;
+    border-color: red;
 }
 
 .btn:hover{
-        background-color: pink;
+        background-color: red;
     margin: 1rem;
-    border-color: pink;
+    border-color: red;
 }
 
 }
