@@ -127,7 +127,10 @@ img{
 }
 
 .center-image{
-    text-align: center;
+    margin-left: 20%;
+}
+
+.justify-text{text-align:justify; 
 }
 
 
